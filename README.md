@@ -6,7 +6,7 @@ You are a desperate burglar buried in debt. Your goal is to steal a minimum of 2
 
 ## Game Design
 
-The game world consists of a mansion with a front door, a porch and a side door, emergency ladders, a hallway with a kitchen, a dining hall, a living room, a bathroom and an office. There is also an upper level with bedrooms and another bathroom. The layout and two different example playthroughs are provided in the "Map diagrams and example walkthroughs" pdf file.
+The game world consists of a mansion with a front door, a porch and a side door, emergency ladders, a hallway with a kitchen, a dining hall, a living room, a bathroom and an office. There is also an upper level with bedrooms and another bathroom. The layout and two different example playthroughs are provided in the [https://github.com/MiroKeimioniemi/Burglary-A-Text-based-Minigame/blob/master/Map%20diagram%20and%20example%20walkthroughs.pdf]("Map diagrams and example walkthroughs" pdf file).
 
 The longer the player stays in the mansion, the higher the risk for a resident to go to the bathroom or to the kitchen for a nightly snack and therefore the higher the chance of getting caught.
 
