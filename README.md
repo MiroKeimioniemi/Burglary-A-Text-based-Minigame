@@ -44,3 +44,5 @@ Available player actions:
 ITEMs have to be discerned based on room descriptions or discovered by inspecting an AREA, which takes a label (e.g. hallway) listed next to the available DIRECTIONs as an argument.
 
 Replaying requires restarting the game by closing the window and relaunching the entire application.
+
+Run the AdventureGUI class to play the game.
